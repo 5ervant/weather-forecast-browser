@@ -16,7 +16,7 @@ Checkout this repo and install dependencies with the following:
 ```
 
 #### Not Familiar with Git?
-Click [here](https://github.com/5ervant/weather-forecast-browser/archive/master.zip) to download the .zip file. Extract the contents of the zip file, then open your terminal, change to the project directory, and install dependencies with the following:
+Click [here](https://github.com/5ervant/weather-forecast-browser/archive/master.zip) to download the .zip file. Extract the contents of the zip file, then open your terminal, change to the project directory, and install dependencies by running:
 
 ```
 > npm install
