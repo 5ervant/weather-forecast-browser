@@ -24,7 +24,7 @@ Click [here](https://github.com/5ervant/weather-forecast-browser/archive/master.
 
 ### Applying OpenWeatherMap and Google Maps API keys ###
 
-Go to [OpenWeatherMap](https://openweathermap.org), sign up to have your own API identification key, open */src/actions/index.js* and change the `API_KEY` with your API key and the `COUNTRY_CODE` with your target ISO 3166 country code. Obtain your [Google Maps API key by clicking here](https://developers.google.com/maps/documentation/javascript/get-api-key), open */index.js* and change the `YOUR_API_KEY` with your API key. And open your terminal, change to the project directory, then start the gulp process with:
+Go to [OpenWeatherMap](https://openweathermap.org), sign up to have your own API identification key, open */src/actions/index.js* and change the `API_KEY` with your key and the `COUNTRY_CODE` with your target ISO 3166 country code. Obtain your [Google Maps API key by clicking here](https://developers.google.com/maps/documentation/javascript/get-api-key), open */index.js* and change the `YOUR_API_KEY` with your key. And open your terminal, change to the project directory, then start the gulp process with:
 
 ```
 > npm start
